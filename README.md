@@ -32,7 +32,7 @@
 <Video src = "https://www.youtube.com/watch?v=s7mtkSvbwi4" controls></video>
 <audio src =  "spanishguitar.mp3" controls></audio>
 <aside> THis is an aside</aside>
-<p> Famous Spanish Celebrities
+<p> Famous Spanish Celebrities</p>
 <ul reversed start= "50">
   <li>Salvador Dali</li>
   <li>Salma Hayeck</li>
@@ -45,4 +45,5 @@
 <li>Scientist</li>
 <li> Scientist</li>
 <li> Scientist</li>
+ </ul>
 </html>
